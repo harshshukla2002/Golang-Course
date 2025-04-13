@@ -12,3 +12,9 @@
 - Slices
 - Structs
 - Functions
+- Arrays
+- Maps
+- Methods
+- Defer
+- Files
+- Web Requests
